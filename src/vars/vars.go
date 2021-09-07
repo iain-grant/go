@@ -13,6 +13,6 @@ func main() {
 	fmt.Printf("%%07d displays %07d \n\n", num)
 
 	fmt.Printf("Pi is appromimately %1.10f \n", pi)
-	fmt.Printf("Right-aligned %20.3f rounded pi", pi)
+	fmt.Printf("Right-aligned %20.3f rounded pi \n", pi)
 	fmt.Printf("Left-aligned %-20.3f rounded pi", pi)
 }
